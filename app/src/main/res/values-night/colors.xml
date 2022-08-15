@@ -1,0 +1,32 @@
+
+<resources>
+    <color name="md_primary">#00E388</color>
+    <color name="md_onPrimary">#00391E</color>
+    <color name="md_primaryContainer">#00522E</color>
+    <color name="md_onPrimaryContainer">#58FFA5</color>
+    <color name="md_secondary">#B6CCB9</color>
+    <color name="md_onSecondary">#213527</color>
+    <color name="md_secondaryContainer">#374B3D</color>
+    <color name="md_onSecondaryContainer">#D1E8D5</color>
+    <color name="md_tertiary">#A3CDDB</color>
+    <color name="md_onTertiary">#023640</color>
+    <color name="md_tertiaryContainer">#214C57</color>
+    <color name="md_onTertiaryContainer">#BEEAF7</color>
+    <color name="md_error">#FFB4AB</color>
+    <color name="md_errorContainer">#93000A</color>
+    <color name="md_onError">#690005</color>
+    <color name="md_onErrorContainer">#FFDAD6</color>
+    <color name="md_background">#191C1A</color>
+    <color name="md_onBackground">#E1E3DE</color>
+    <color name="md_surface">#191C1A</color>
+    <color name="md_onSurface">#E1E3DE</color>
+    <color name="md_surfaceVariant">#414942</color>
+    <color name="md_onSurfaceVariant">#C0C9C0</color>
+    <color name="md_outline">#8A938B</color>
+    <color name="md_inverseOnSurface">#191C1A</color>
+    <color name="md_inverseSurface">#E1E3DE</color>
+    <color name="md_inversePrimary">#006D3E</color>
+    <color name="md_shadow">#000000</color>
+    <color name="md_surfaceTint">#00E388</color>
+    <color name="md_surfaceTintColor">#00E388</color>
+</resources>
